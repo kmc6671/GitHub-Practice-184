@@ -36,8 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
-
-
+|Kelly Cooper       | Section 001 .     | kmc6671             | <https://kmc6671.github.io/ReadMe> |
 <br>
 
 # Integration of RStudio with Git
